@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\class_object\class_object\bin\Debug\class_object.exe.config
+C:\Users\LENOVO\source\repos\class_object\class_object\bin\Debug\class_object.exe
+C:\Users\LENOVO\source\repos\class_object\class_object\bin\Debug\class_object.pdb
+C:\Users\LENOVO\source\repos\class_object\class_object\obj\Debug\class_object.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\class_object\class_object\obj\Debug\class_object.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\class_object\class_object\obj\Debug\class_object.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\class_object\class_object\obj\Debug\class_object.exe
+C:\Users\LENOVO\source\repos\class_object\class_object\obj\Debug\class_object.pdb
